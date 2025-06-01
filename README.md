@@ -1,4 +1,4 @@
-# mixup_dataton2
+# MixUp_Datathon
 
 
 # 🧪 MixUp_훈제오리구이 : Grammar Error Correction Promptathon 
