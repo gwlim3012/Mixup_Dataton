@@ -1,9 +1,7 @@
-# MixUp_Datathon
-
 
 # 🧪 MixUp_훈제오리구이 : Grammar Error Correction Promptathon 
 
-본 레포지토리는 Grammar Error Correction Promptathon  실험을 재현하고 확장하기 위한 코드 및 가이드를 제공합니다.
+최종 3위 (우수상) 수상
 
 ## 📌 프로젝트 개요
 
