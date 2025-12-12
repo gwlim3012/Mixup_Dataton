@@ -1,7 +1,6 @@
 
 # 🧪 MixUp_훈제오리구이 : Grammar Error Correction Promptathon 
 
-최종 3위 (우수상) 수상
 
 ## 📌 프로젝트 개요
 
